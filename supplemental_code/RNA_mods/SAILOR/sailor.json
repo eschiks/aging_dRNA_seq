@@ -1,0 +1,12 @@
+{
+  "samples_path": "./bams",
+  "samples": [
+    "${basename}_rep1Aligned.sortedByCoord.out.bam",
+    "${basename}_rep2Aligned.sortedByCoord.out.bam",
+    "${basename}_rep3Aligned.sortedByCoord.out.bam"],
+  "reverse_stranded": true,
+  "reference_fasta": "c_elegans.PRJNA13758.WS279.genomic.fa",
+  "known_snps": "snps.bed",
+  "edit_type": "AG",
+  "output_dir": "./outputs"
+}

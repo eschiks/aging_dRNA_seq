@@ -1,0 +1,1 @@
+This folder contains scripts for running SUPPA to perform alternative splicing analysis using Nanopore flair isoforms as a scaffold for Illumina RNA-seq reads. I first converted the flair collapsed bed output to a gtf format (make_compatible_gtf.py) to use as a scaffold, then ran SUPPA.

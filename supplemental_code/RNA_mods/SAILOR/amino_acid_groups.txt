@@ -1,0 +1,5 @@
+pos_charg	R,H,K
+neg_charg	D,E
+polar	S,T,N,Q
+special	C,G,P
+hydrophobic	A,V,I,L,M,F,Y,W

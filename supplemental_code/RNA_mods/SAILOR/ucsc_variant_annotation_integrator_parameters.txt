@@ -1,0 +1,6 @@
+Use the vcf file created to run Variant Annotation Integrator on UCSC
+Upload file as custom track on UCSC.
+Run here: https://genome.ucsc.edu/cgi-bin/hgVai
+Parameters:
+Gene predictions from WormBase WS245 release
+Functional role: 5' or 3'UTR, CDS - intergenic, synonymous coding change, CDS - non-synonymous, intron, splice site or splice region, exon of non-coding gene
